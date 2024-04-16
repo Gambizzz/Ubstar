@@ -4,9 +4,13 @@ Le projet consiste à réaliser une landing page pour une organisation de son ch
 Le projet:
 
 1 - Choix de l'organisation à promouvoir.
+
 2 - Définition de l'objectif de la page et du call to action.
+
 3 - Design de la page.
+
 4 - Codage de la page.
+
 
 Choix de l'organisation :
 Sélection d'une organisation concrète sur laquelle travailler, parmi diverses possibilités comme une association étudiante, une association connue, une future startup, une entreprise, etc.
