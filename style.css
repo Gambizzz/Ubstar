@@ -1,0 +1,22 @@
+.danger {
+  width: 184px;
+  height: 38px;
+  font-family: TimesNewRomance;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.Rectangle-15 {
+  width: 252px;
+  height: 79px;
+  margin: 41px 12px 129px;
+  padding: 18px 34px 23px;
+  border-radius: 20px;
+  background-color: #ff3f0a;
+}
